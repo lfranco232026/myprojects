@@ -1,0 +1,8 @@
+node_modules/
+server/signal.db
+server/uploads/*.pdf
+server/uploads/*.docx
+server/uploads/*.xlsx
+client/build/
+.env
+*.log
