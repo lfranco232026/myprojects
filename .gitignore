@@ -1,5 +1,7 @@
 node_modules/
 server/signal.db
+server/signal.db-shm
+server/signal.db-wal
 server/uploads/*.pdf
 server/uploads/*.docx
 server/uploads/*.xlsx
